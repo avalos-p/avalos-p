@@ -1,4 +1,4 @@
-<h2 align="center">Hey! My name is Pablo Avalos<br> I'm a Data Analyst with skills in Data Extraction and Machine Learning</h2>
+<h2 align="center">Hey! My name is Pablo<br> I'm a Data Analyst with skills in Data Extraction and Machine Learning</h2>
 
 ###
 
