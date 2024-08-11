@@ -26,7 +26,7 @@
 
 -  I have some experience in **extracting and cleaning data, visualization, and machine learning algorithms.**   
 
--  I’m currently learning about **Dash framework for data visualization with Plotly.**
+-  I’m learning about **Dash framework for data visualization with Plotly.**
 
 
 <h3 align="left">You can get in touch with me via:</h3>
