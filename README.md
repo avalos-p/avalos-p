@@ -24,7 +24,7 @@
 
 -  I’m currently working on **web scraping projects using Scrapy and Selenium.**
 
--  I have some experience in **extracting and cleaning data, visualization, and machine learning algorithms.**   
+-  I have experience in **extracting and cleaning data, visualization, and machine learning algorithms.**   
 
 -  I’m learning about **Dash framework for data visualization with Plotly.**
 
