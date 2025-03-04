@@ -22,11 +22,11 @@
 
 ###
 
--  I’m currently working on **web scraping projects using Scrapy and Selenium.**
+-  I’m currently working as a specialist on large-scale web scraping projects.
 
--  I have experience in **extracting and cleaning data, visualization, and machine learning algorithms.**   
+-  I have strong experience in data extraction, cleaning, and visualization.
 
--  I’m learning about **Dash framework for data visualization with Plotly.**
+-  I have a solid background in applying machine learning algorithms.
 
 
 <h3 align="left">You can get in touch with me via:</h3>
