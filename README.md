@@ -22,9 +22,9 @@
 
 ###
 
--  Currently, I operate as a freelance Web Scraping Specialist and Machine Learning Engineer, delivering high-impact data solutions to a global clients, including leading companies in both local and international markets. I specialize in developing scalable, high-performance crawlers and bots using tools like Scrapy, Selenium, and headless browser automation. My expertise lies in overcoming complex challenges.
+-  Currently, I operate as a freelance Web Scraping Specialist and Machine Learning Engineer, delivering data solutions to a global clients, including leading companies in both local and international markets.
 
--  Backed by a solid academic foundation in Physics and Applied Mathematics (FaMAF – UNC), I approach problems analytically and build robust, data-driven solutions from the ground up. When needed, I implement machine learning models to extract deeper insights and use tools like Dash, Plotly, and Power BI to create compelling, interactive visualizations.
+-  Backed by a solid academic foundation in Physics and Applied Mathematics (FaMAF – UNC), I approach problems analytically and build robust, data-driven solutions.
   
 -  My tech stack includes PostgreSQL, BigQuery, MySQL, and Airflow, which I use to design and orchestrate automated, scalable pipelines. I have extensive experience deploying and managing projects across both Linux and Windows environments, including virtualized setups on Google Cloud Platform.
 
