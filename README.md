@@ -1,4 +1,4 @@
-<h2 align="center">Hey! My name is Pablo<br> I'm a Data Analyst with skills in Data Extraction and Machine Learning</h2>
+<h2 align="center">Hey there! I'm Pablo 👋<br>Data Analyst & ML Engineer | Web Scraping Specialist</h2>
 
 ###
 
@@ -22,11 +22,18 @@
 
 ###
 
--  Currently, I operate as a freelance Web Scraping Specialist and Machine Learning Engineer, delivering data solutions to a global clients, including leading companies in both local and international markets.
+-  **Freelance Consultant** delivering end-to-end **ETL pipelines**, **Web Scraping**, and **Machine Learning solutions** for companies across multiple industries.
+-  Strong skills in building robust, scalable pipelines using **Airflow**, **BigQuery** and **PostgreSQL**.
+-  Academic background in **Physics** and **Applied Mathematics** (FaMAF – UNC) with deep knowledge of numerical methods, statistics, and complex data analysis.
+-  I thrive in **Linux environments**, using **Scrapy**, **Selenium**, **BeautifulSoup**, **Scikit-learn**, and **TensorFlow**, combined with agile methodologies (**Scrum**, **Kanban**) to deliver high-impact solutions.
+-  I enjoy working with different teams, solving challenging problems and making data accessible and actionable.
 
--  Backed by a solid academic foundation in Physics and Applied Mathematics (FaMAF – UNC), I approach problems analytically and build robust, data-driven solutions.
-  
--  My tech stack includes PostgreSQL, BigQuery, MySQL, and Airflow, which I use to design and orchestrate automated, scalable pipelines. I have extensive experience deploying and managing projects across both Linux and Windows environments, including virtualized setups on Google Cloud Platform.
+###
+### 📂 **Highlighted Projects**
+- 📋 **[Log processing system that collects, processes, and stores log data.](https://github.com/avalos-p/kpis-logs-pipeline)** —  Fluent Bit, Kafka, PostgreSQL, Docker.
+- 🧠 **[Machine Learning Pipeline](https://github.com/avalos-p/Machine_Learning_Pipeline)** — Docker, Apache Airflow, Scikit-learn.
+- 🕸️ **[Web Scraping Integration](https://github.com/avalos-p/Portfolio-Web-Scraping-Scrapy-and-Selenium-Integration)** — Scrapy & Selenium.
+- 📊 **[Dashboard: Plotly Dash Competition](https://github.com/avalos-p/dash-competition)** — Machine Learning comparative dashboard using Dash for Competition.
 
 
 <h3 align="left">You can get in touch with me via:</h3>
